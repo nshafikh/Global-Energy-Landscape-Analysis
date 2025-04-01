@@ -1,8 +1,11 @@
 # Global Energy Landscape Analysis
+![ezgif-592d071875027b](https://github.com/user-attachments/assets/e4ff814d-9593-4d46-ba6e-3c02cceba495)
 
 ## Project Overview
 
 This project provides a comprehensive analysis of global energy consumption trends, electricity access, and the impact of income levels on energy use, with a focus on the evolving role of renewable and fossil energy sources across different regions and income brackets from 2000 to 2020.
+
+(Check project report for visualizations and in-depth analysis)
 
 ## Key Areas of Analysis
 
