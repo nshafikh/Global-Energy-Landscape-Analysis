@@ -1,60 +1,40 @@
+**(Check project report for visualizations and in-depth analysis!)**
+
 # Global Energy Landscape Analysis
 ![ezgif-592d071875027b](https://github.com/user-attachments/assets/e4ff814d-9593-4d46-ba6e-3c02cceba495)
 
 ## Project Overview
 
-This project provides a comprehensive analysis of global energy consumption trends, electricity access, and the impact of income levels on energy use, with a focus on the evolving role of renewable and fossil energy sources across different regions and income brackets from 2000 to 2020.
+This project provides a comprehensive analysis of global energy consumption trends, electricity access, and the impact of income levels on energy use, with a focus on the evolving role of renewable and fossil energy sources across different regions and income brackets during a two-decade span.
 
-(Check project report for visualizations and in-depth analysis)
+## Data
 
-## Key Areas of Analysis
+- Primary Dataset: Sustainable Energy 2000-2020
+- URL: https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy/data
+- This dataset contains many useful factors, including sustainable energy indicators, across 176 countries from 2000 to 2020
+- 1 table
+- 21 columns
+- 3520 rows (176 countries * 20 years)
+- There are some columns (e.g., financial flows to developing countries) that have missing values. We will determine how to handle missing values upon further examination of the dataset.
+- Additionally using World Bank dataset to identify population and age brackets for countries
+- Income URL: https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups
+- Population URL: https://data.worldbank.org/indicator/SP.POP.TOTL
 
-The analysis is broken down into the following key areas:
+## Key Insights:
+- Total energy and electricity consumption is closely tied to income, with high income countries using the most and consumption decreasing across lower income brackets.
+- While energy access influences energy usage, the disparity in consumption is much larger than the disparity in access.
+- There is an inverse relationship between income level and reliance on renewable energy—low income countries source over 70% of their energy from renewables, while high income countries rely on them for less than 15% of their energy consumption.
+- Nuclear energy is predominantly used by high income countries, which account for 85.8% of global nuclear electricity consumption. In contrast, lower income brackets use very little, making nuclear a much more significant part of the energy mix in wealthier nations.
+- Fossil fuels remain the dominant electricity source worldwide.
+- Global consumption of fossil fuels and renewable energy for electricity has generally increased gradually, while nuclear energy usage has remained stagnant.
+- Latin America and the Caribbean have a strong reliance on renewable energy for electricity, while Western Europe depends heavily on nuclear energy, despite a decline in nuclear energy usage from 2000 to 2020.
+- East Asia also relies significantly on nuclear energy but experienced a sharp decline in the early 2010s, with a recovery occurring towards the end of the decade.
+- Financial inflows do not directly correlate with renewable energy initiatives, as other energy sources are growing at a faster rate.
+- However, countries receiving financial inflows consistently experience an increase in overall renewable energy consumption, suggesting a possible correlation but not causation.
+- High income countries were historically the largest CO₂ emitters but were recently surpassed by upper-middle income countries, largely due to China’s rapid emissions growth.
+- China’s economic rise to upper-middle income status in 2010 coincided with a significant increase in its CO₂ emissions.
+- Lower-middle income countries previously had similar emissions to upper-middle income countries, but the latter has since diverged due to rapid industrialization.
+- Low income countries contribute the least CO₂ emissions and saw a noticeable drop in 2007, likely due to reclassification.
+- Total emissions in high income countries have remained stable, but per capita emissions have declined, suggesting new entrants into the high income classification have lower emissions.
+- Upper-middle income countries now dominate total emissions, reinforcing the link between industrial growth and CO₂ output.
 
-1. **Access to Electricity by Income Bracket**
-2. **Total Energy Consumption Across Income Brackets**
-3. **Per Capita Energy Consumption by Income Bracket**
-4. **Renewable Energy’s Share in Total Consumption**
-5. **Income-Based Distribution of Global Electricity Consumption by Energy Source**
-6. **Distribution of Electricity Sources Within Each Income Bracket**
-
-## Key Insights
-
-- **Electricity Access:**  
-  Low-income countries experience significant gaps in electricity access, with just over 30% of their populations gaining access during the period analyzed (2000-2020). 
-
-- **Energy Consumption:**  
-  High-income countries vastly outpace low-income countries in total energy consumption and per capita energy usage, reflecting disparities in both energy availability and consumption patterns.
-
-- **Renewable Energy:**  
-  An inverse relationship exists between income levels and reliance on renewable energy. Low-income countries, due to limited access to other energy sources, rely heavily on renewable energy, while high-income countries use far less.
-
-- **Nuclear Energy:**  
-  High-income countries dominate global nuclear energy consumption, accounting for over 85% of the supply. The disparity is especially striking in comparison to lower-income regions, which have minimal nuclear energy usage.
-
-- **CO₂ Emissions:**  
-  Upper-middle-income countries, especially China, have seen the largest growth in CO₂ emissions, surpassing high-income countries in recent years. This trend highlights the impact of rapid industrialization and economic growth on global emissions.
-
-## Visualizations
-
-The project includes a series of visualizations that provide insights into:
-
-- Disparities in electricity access across income brackets.
-- The difference in energy consumption between high and low-income countries.
-- Trends in renewable energy adoption across different income groups.
-- The relationship between income levels and the energy mix, particularly in relation to fossil fuels, renewables, and nuclear energy.
-
-## Additional Research
-
-- **BloombergNEF:**  
-  A significant push for renewable energy is underway in developing countries, driven by rising fossil fuel prices and the need to mitigate climate change impacts. Developing nations are increasingly ambitious in their clean power policies to reduce energy poverty and enhance sustainability.
-
-- **The Rockefeller Foundation:**  
-  Renewable energy initiatives can potentially generate up to **500 million new jobs** in Africa and Asia by 2030, providing significant economic opportunities while combating energy poverty.
-
-- **World Nuclear Association:**  
-  The long-term incentives for nuclear energy are often hampered in deregulated markets due to high capital investment requirements and greater uncertainty. Despite this, nuclear energy remains a crucial part of the energy mix in high-income countries.
-
-## Conclusion
-
-This project sheds light on the profound disparities in global energy access and consumption, highlighting the growing importance of renewable energy and the role of economic development in shaping the future energy landscape. It underscores the need for targeted policies that address energy poverty, promote sustainability, and reduce emissions, particularly in developing countries. The additional research suggests that financial investments, technological advancements, and policy changes will be pivotal in driving global energy transitions, mitigating climate change, and ensuring equitable energy access worldwide.
