@@ -1,4 +1,4 @@
-### (Check [project report](https://github.com/nshafikh/Global-Energy-Landscape-Analysis/blob/main/Project%20Report.pdf) for visualizations and in-depth analysis)**
+### (Check [project report](https://github.com/nshafikh/Global-Energy-Landscape-Analysis/blob/main/Project%20Report.pdf) for visualizations and in-depth analysis
 # Global Energy Landscape Analysis
 ![ezgif-592d071875027b](https://github.com/user-attachments/assets/e4ff814d-9593-4d46-ba6e-3c02cceba495)
 
