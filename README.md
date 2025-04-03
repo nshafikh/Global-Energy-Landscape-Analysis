@@ -25,19 +25,19 @@ The analysis of global energy consumption trends, the composition of electricity
 income levels, renewable energy adoption, and CO₂ emissions paints a complex picture of the evolving energy
 landscape. Several key insights emerged from the exploration:
 
-1. Income and Energy Consumption: The disparity between high income and low income countries is evident in
+1. **Income and Energy Consumption:** The disparity between high income and low income countries is evident in
 both total energy consumption and electricity access. High income nations consistently dominate global energy
 usage, while low income countries continue to depend heavily on renewable energy due to limited access to
 fossil fuels. This underscores the challenge of energy poverty, especially in low income regions where limited
 access to traditional energy resources has led to a reliance on renewables as a means of addressing energy
 needs.
-2. Renewable Energy Adoption: Financial inflows aimed at boosting renewable energy usage in developing
+2. **Renewable Energy Adoption:** Financial inflows aimed at boosting renewable energy usage in developing
 countries have had a measurable impact, though their effectiveness has been tempered by the faster growth in
 consumption from other energy sources. Countries receiving financial support for renewable energy showed
 consistent increases in renewable electricity consumption, suggesting that financial aid can catalyze change.
 However, other factors, such as the growth of fossil fuel-based energy consumption and the higher cost of
 renewables, have slowed the transition.
-3. Regional Trends and Nuclear Energy: The regional analysis revealed stark differences in how electricity is
+3. **Regional Trends and Nuclear Energy:** The regional analysis revealed stark differences in how electricity is
 sourced. While Eastern Asia and North America remain major consumers of fossil fuels and nuclear energy,
 Latin America has been a leader in renewable energy adoption. The specific case of Eastern Asia, particularly
 China, illustrates the significant role industrialization and rapid economic growth play in shifting energy
@@ -46,7 +46,7 @@ early 2010s was a direct result of the Fukushima nuclear disaster in 2011, but t
 and other countries in the region sought to increase their nuclear capacity in response to rising energy demand
 and climate concerns. Furthermore, regions like Western Europe show a marked preference for nuclear energy,
 despite a general decline in its usage over the past two decades.
-4. CO₂ Emissions and Economic Growth: High income countries, long the largest CO₂ emitters, have recently
+4. **CO₂ Emissions and Economic Growth:** High income countries, long the largest CO₂ emitters, have recently
 been surpassed by upper-middle income nations, particularly China, whose rapid industrialization and
 economic growth have driven a sharp increase in emissions. This trend is consistent with the findings that
 suggest a direct link between economic growth and CO₂ output. However, in high income countries, total
@@ -54,7 +54,7 @@ emissions have stabilized, and per capita emissions have declined, as many of th
 toward cleaner energy solutions. This trend highlights the potential for decoupling economic growth from
 carbon emissions when cleaner technologies are adopted, a shift that has been aided by the international
 policies and frameworks discussed in the additional research.
-5. Role of International Financial Flows: The additional research from sources like the United Nations
+5. **Role of International Financial Flows:** The additional research from sources like the United Nations
 Conference on Trade and Development (UNCTAD) and the Rockefeller Foundation underscored the
 importance of international investment in clean energy, especially in developing countries. While financial
 inflows are vital, they are still not sufficient to meet the scale of energy transition required. UNCTAD has
@@ -62,7 +62,7 @@ called for greater investments in clean energy projects, while the Rockefeller F
 significant job creation potential of ending energy poverty through renewable energy initiatives. These insights
 point to the need for coordinated global efforts, including increased funding, to accelerate the energy transition
 in developing regions.
-6. Nuclear Energy's Role in the Energy Mix: The additional research also highlighted the evolving role of nuclear
+6. **Nuclear Energy's Role in the Energy Mix:** The additional research also highlighted the evolving role of nuclear
 energy in the global energy mix. In Europe, nuclear energy has faced significant challenges, including public
 perception issues and the high capital costs of building new plants. However, countries like France have
 remained strong proponents of nuclear energy, which has helped to provide a stable, low-carbon source of
@@ -70,13 +70,3 @@ electricity. This contrasts with other regions like Italy, which phased out nucl
 supports nuclear initiatives in neighboring countries like France. These examples emphasize that while nuclear
 energy is viewed with caution in many parts of the world, it remains an important part of the energy mix,
 especially in countries that have made long-term investments in its infrastructure.
-
-## Final Thoughts
-The global energy landscape is characterized by stark disparities across income levels, regions, and energy sources. The
-findings from this research highlight the complexity of transitioning to renewable energy, particularly in developing
-nations, and the role of financial support in driving this change. While the shift towards renewables is occurring, the
-growth of fossil fuel consumption and the challenges posed by nuclear energy adoption must also be addressed. Future
-research should continue to explore these dynamics, with a focus on how financial inflows, international policy, and
-technological innovation can accelerate the transition to a more sustainable and equitable global energy system. By
-continuing to invest in clean energy, fostering international cooperation, and promoting energy equity, we can work
-toward achieving both global energy security and a sustainable future for all
